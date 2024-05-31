@@ -1,0 +1,196 @@
+breed_name,attention_score,Rank
+Bernese Mountain Dogs,3.60,1
+Black Russian Terriers,3.60,1
+German Shepherd Dogs,3.60,1
+Giant Schnauzers,3.60,1
+Leonbergers,3.60,1
+Miniature American Shepherds,3.60,1
+Portuguese Water Dogs,3.60,1
+Setters (Gordon),3.60,1
+Wirehaired Pointing Griffons,3.60,1
+Border Collies,3.40,2
+Dogo Argentinos,3.40,2
+Dogues de Bordeaux,3.40,2
+Old English Sheepdogs,3.40,2
+Pointers (German Shorthaired),3.40,2
+Pyrenean Shepherds,3.40,2
+Retrievers (Labrador),3.40,2
+Setters (Irish),3.40,2
+Tibetan Mastiffs,3.40,2
+Treeing Walker Coonhounds,3.40,2
+Vizslas,3.40,2
+Weimaraners,3.40,2
+Australian Shepherds,3.20,3
+Beaucerons,3.20,3
+Bloodhounds,3.20,3
+Bouviers des Flandres,3.20,3
+Brittanys,3.20,3
+Dalmatians,3.20,3
+Doberman Pinschers,3.20,3
+Finnish Spitz,3.20,3
+Grand Basset Griffon Vendeens,3.20,3
+Great Danes,3.20,3
+Greater Swiss Mountain Dogs,3.20,3
+Icelandic Sheepdogs,3.20,3
+Keeshonden,3.20,3
+Miniature Schnauzers,3.20,3
+Newfoundlands,3.20,3
+Pulik,3.20,3
+Retrievers (Chesapeake Bay),3.20,3
+Retrievers (Flat-Coated),3.20,3
+Retrievers (Nova Scotia Duck Tolling),3.20,3
+Russell Terriers,3.20,3
+Setters (English),3.20,3
+Siberian Huskies,3.20,3
+Spaniels (Cocker),3.20,3
+Spaniels (English Springer),3.20,3
+Spanish Water Dogs,3.20,3
+St. Bernards,3.20,3
+Swedish Vallhunds,3.20,3
+Tibetan Terriers,3.20,3
+Wirehaired Vizslas,3.20,3
+Bearded Collies,3.00,4
+Boerboels,3.00,4
+Boxers,3.00,4
+Bulldogs,3.00,4
+Bullmastiffs,3.00,4
+Chow Chows,3.00,4
+Entlebucher Mountain Dogs,3.00,4
+Fox Terriers (Wire),3.00,4
+Miniature Pinschers,3.00,4
+Neapolitan Mastiffs,3.00,4
+Nederlandse Kooikerhondjes,3.00,4
+Norwegian Elkhounds,3.00,4
+Papillons,3.00,4
+Pembroke Welsh Corgis,3.00,4
+Pointers,3.00,4
+Pointers (German Wirehaired),3.00,4
+Polish Lowland Sheepdogs,3.00,4
+Poodles,3.00,4
+Pumik,3.00,4
+Rat Terriers,3.00,4
+Redbone Coonhounds,3.00,4
+Retrievers (Golden),3.00,4
+Rottweilers,3.00,4
+Samoyeds,3.00,4
+Shetland Sheepdogs,3.00,4
+Spaniels (Clumber),3.00,4
+Spaniels (English Cocker),3.00,4
+Spaniels (Sussex),3.00,4
+Spaniels (Welsh Springer),3.00,4
+Staffordshire Bull Terriers,3.00,4
+Standard Schnauzers,3.00,4
+Welsh Terriers,3.00,4
+West Highland White Terriers,3.00,4
+Yorkshire Terriers,3.00,4
+Akitas,2.80,5
+Alaskan Malamutes,2.80,5
+American Eskimo Dogs,2.80,5
+Australian Cattle Dogs,2.80,5
+Basset Hounds,2.80,5
+Beagles,2.80,5
+Belgian Malinois,2.80,5
+Belgian Sheepdogs,2.80,5
+Belgian Tervuren,2.80,5
+Bichons Frises,2.80,5
+Black and Tan Coonhounds,2.80,5
+Bluetick Coonhounds,2.80,5
+Borzois,2.80,5
+Bull Terriers,2.80,5
+Cardigan Welsh Corgis,2.80,5
+Collies,2.80,5
+English Foxhounds,2.80,5
+English Toy Spaniels,2.80,5
+Finnish Lapphunds,2.80,5
+German Pinschers,2.80,5
+Great Pyrenees,2.80,5
+Harriers,2.80,5
+Ibizan Hounds,2.80,5
+Kerry Blue Terriers,2.80,5
+Mastiffs,2.80,5
+Norfolk Terriers,2.80,5
+Norwegian Buhunds,2.80,5
+Norwich Terriers,2.80,5
+Parson Russell Terriers,2.80,5
+Petits Bassets Griffons Vendeens,2.80,5
+Pharaoh Hounds,2.80,5
+Portuguese Podengo Pequenos,2.80,5
+Rhodesian Ridgebacks,2.80,5
+Scottish Terriers,2.80,5
+Sealyham Terriers,2.80,5
+Setters (Irish Red and White),2.80,5
+Soft Coated Wheaten Terriers,2.80,5
+Spaniels (Boykin),2.80,5
+Spinoni Italiani,2.80,5
+Toy Fox Terriers,2.80,5
+Affenpinschers,2.60,6
+Afghan Hounds,2.60,6
+Berger Picards,2.60,6
+Briards,2.60,6
+Brussels Griffons,2.60,6
+Canaan Dogs,2.60,6
+Cane Corso,2.60,6
+Chinese Shar-Pei,2.60,6
+Chinooks,2.60,6
+Coton de Tulear,2.60,6
+Fox Terriers (Smooth),2.60,6
+French Bulldogs,2.60,6
+Glen of Imaal Terriers,2.60,6
+Irish Wolfhounds,2.60,6
+Komondorok,2.60,6
+Kuvaszok,2.60,6
+Lagotti Romagnoli,2.60,6
+Miniature Bull Terriers,2.60,6
+Otterhounds,2.60,6
+Pekingese,2.60,6
+Pugs,2.60,6
+Salukis,2.60,6
+Shiba Inu,2.60,6
+Skye Terriers,2.60,6
+Spaniels (Field),2.60,6
+Spaniels (Irish Water),2.60,6
+Tibetan Spaniels,2.60,6
+American Foxhounds,2.40,7
+Anatolian Shepherd Dogs,2.40,7
+Australian Terriers,2.40,7
+Basenjis,2.40,7
+Bedlington Terriers,2.40,7
+Boston Terriers,2.40,7
+Cavalier King Charles Spaniels,2.40,7
+Dachshunds,2.40,7
+Dandie Dinmont Terriers,2.40,7
+Havanese,2.40,7
+Japanese Chin,2.40,7
+Lakeland Terriers,2.40,7
+Maltese,2.40,7
+Manchester Terriers,2.40,7
+Norwegian Lundehunds,2.40,7
+Pomeranians,2.40,7
+Schipperkes,2.40,7
+Shih Tzu,2.40,7
+Silky Terriers,2.40,7
+Sloughis,2.40,7
+Whippets,2.40,7
+Airedale Terriers,2.20,8
+American English Coonhounds,2.20,8
+Azawakhs,2.20,8
+Barbets,2.20,8
+Border Terriers,2.20,8
+Cairn Terriers,2.20,8
+Cesky Terriers,2.20,8
+Chihuahuas,2.20,8
+Greyhounds,2.20,8
+Irish Terriers,2.20,8
+Italian Greyhounds,2.20,8
+Lhasa Apsos,2.20,8
+Lowchen,2.20,8
+Retrievers (Curly-Coated),2.20,8
+Scottish Deerhounds,2.20,8
+Spaniels (American Water),2.20,8
+Xoloitzcuintli,2.20,8
+American Staffordshire Terriers,2.00,9
+Bergamasco Sheepdogs,2.00,9
+Chinese Crested,2.00,9
+American Hairless Terriers,1.80,10
+Cirnechi dellâ€™Etna,1.80,10
+Plott Hounds,0.00,11
